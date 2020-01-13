@@ -1,6 +1,6 @@
 name: Shellcheck
 
-on: check_run
+on: [push]
 
 jobs:
   shellcheck:
