@@ -9,5 +9,5 @@ jobs:
     - uses: actions/checkout@v1
     - name: Install Shellcheck
       run: sudo apt install shellcheck
-    - name: Run tests
+    - name: Run Shellcheck
       run: shellcheck script.bash
