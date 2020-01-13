@@ -10,7 +10,7 @@ sleep 1
 
 echo "What was your name again?"
 
-read NAME
+read -r NAME
 
 sleep 1
 
