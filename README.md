@@ -1,4 +1,4 @@
-# WTF are GitHub Actions?
+# WTF are GitHub Actions? ![Shellcheck Status](https://github.com/zachlatta/wtf-are-github-actions/workflows/Shellcheck/badge.svg)
 
 This is a playground repo to find out.
 
