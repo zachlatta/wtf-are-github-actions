@@ -8,6 +8,6 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Install Shellcheck
-      run: sudo apt install shellcheck
+      run: sudo apt-get -y install shellcheck
     - name: Run Shellcheck
       run: shellcheck script.bash
