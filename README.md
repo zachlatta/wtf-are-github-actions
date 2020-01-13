@@ -1,2 +1,6 @@
-# wtf-are-github-actions
-What are GitHub Actions? Playground repo to find out.
+# WTF are GitHub Actions?
+
+This is a playground repo to find out.
+
+Goal for this project: on push of bash script, run shellcheck on it.
+
